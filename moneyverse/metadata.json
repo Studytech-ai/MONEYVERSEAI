@@ -1,0 +1,6 @@
+{
+  "name": "MoneyVerse",
+  "description": "Magical financial learning universe for kids and families to master money, savings goals, missions, and thoughtful choices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
